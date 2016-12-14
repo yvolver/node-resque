@@ -3,6 +3,9 @@
   "name": "node-resque",
   "description": "an opinionated implementation of resque in node",
   "version": "0.10.2",
+  "publishConfig" : {
+    "registry" : "http://artifactory.adtilt.com/artifactory/api/npm/adc-npm-repo"
+  },
   "homepage": "http://github.com/taskrabbit/node-resque",
   "repository": {
     "type": "git",
